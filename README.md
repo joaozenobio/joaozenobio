@@ -18,4 +18,4 @@
 - ⚡ Fun fact: I love Mathematics and Science Fiction!
 
 ### Tools and technolgies:
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
