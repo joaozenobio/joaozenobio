@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 👋 Hello there... My name is João Gabriel and this is my github page!
-<\div>
+</div>
 
 - 🔭 I’m currently working on time series signal analysis.
 
