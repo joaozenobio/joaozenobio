@@ -28,4 +28,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40"/>
 
 ### Hardware description languages
-
+<img src="https://github.com/joaozenobio/joaozenobio/blob/8800d4528931fd840cd4684f0e276ca7f49fd8c5/stmicroelectronics.svg" width="40" height="40"/> <img src="https://github.com/joaozenobio/joaozenobio/blob/8800d4528931fd840cd4684f0e276ca7f49fd8c5/verilog.png" width="40" height="40"/>
