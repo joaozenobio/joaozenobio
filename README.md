@@ -1,7 +1,7 @@
 # 👋 Hello there...
 ## My name is João Gabriel and this is my github page!
 
-- 🔭 I’m currently working on time series signal analysis.
+# - 🔭 I’m currently working on time series signal analysis.
 - 🌱 I’m currently learning Computer Science and Computer Engineering.
 - 👯 I’m looking to collaborate on Artificial Inteligence projects.
 - 🤔 I’m looking for help with Robotics.
