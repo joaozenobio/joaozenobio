@@ -29,10 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozenobio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
   
-<div align="center">
-  ![joaozenobio snake gif](https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.svg)
-  ![joaozenobio snake gif](https://github.com/joaozenobio/joaozenobio/blob/8db921dff85d8af426e53b98eceb3ff22ce1a6c2/github-contribution-grid-snake.svg)
-</div>
+![joaozenobio snake gif](https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 
