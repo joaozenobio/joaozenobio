@@ -30,7 +30,8 @@
 </div>
   
 <div align="center">
-  ![snake gif](https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.gif)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/joaozenobio/joaozenobio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/joaozenobio/joaozenobio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
 
 <br><br>
