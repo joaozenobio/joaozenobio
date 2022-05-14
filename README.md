@@ -30,7 +30,7 @@
 </div>
   
 <div align="center">
-  ![snake gif](https://github.com/joaozenobio/joaozenobio/blob/d4acb7c96dae1e517b895b6124853cf424d1ebc1/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <br><br>
