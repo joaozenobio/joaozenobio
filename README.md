@@ -31,8 +31,8 @@
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Tools
 <div>
+  <h2> Tools <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/>
@@ -40,8 +40,8 @@
   <img src="https://github.com/joaozenobio/joaozenobio/blob/8800d4528931fd840cd4684f0e276ca7f49fd8c5/stmicroelectronics.svg" width="40" height="40"/>
 </div>
 
-### Technologies
 <div>
+  <h2> Technologies <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
@@ -51,8 +51,8 @@
   <img src="https://github.com/joaozenobio/joaozenobio/blob/89a3d9d869e6321ae6dfe84a6acb4acc38f04317/keras.png" width="40" height="40"/>
 </div>
 
-### Programming languages
 <div>
+  <h2> Programming languages <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40"/>
 </div>
 
-### Hardware description languages
 <div>
+  <h2> Hardware description languages <br>
   <img src="https://github.com/joaozenobio/joaozenobio/blob/8800d4528931fd840cd4684f0e276ca7f49fd8c5/verilog.png" width="40" height="40"/>
 </div>
