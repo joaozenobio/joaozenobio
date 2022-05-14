@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: I love Mathematics and Science Fiction!
 
-<div>
+<div align="center">
   <h3> 📫 How to reach me: <br>
   <a href = "mailto:zenobiojoao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/zenobiojoao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
