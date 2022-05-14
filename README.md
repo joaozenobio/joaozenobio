@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello there... My name is João Gabriel and this is my github page!
+  <p style="font-size: 24pt;"> Hello there... My name is João Gabriel and this is my github page! <\p>
 </div>
   
 <div>
