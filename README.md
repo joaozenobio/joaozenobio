@@ -1,26 +1,24 @@
 <div align="center">
-  <p style="font-size: 50pt;"> Hello there... My name is João Gabriel and this is my github page!
+  <h1> Hello there... My name is João Gabriel and this is my github page!
 </div>
   
-<div>
+<div align="center">
   <img src="https://github.com/joaozenobio/joaozenobio/blob/7ec8059cbae6d1200117f893363903acd974c8bd/linespacer.gif" />
-</div>
   
-- 🔭 I’m currently working on time series signal analysis.
+🔭 I’m currently working on time series signal analysis.
 
-- 🌱 I’m currently learning Computer Science and Computer Engineering.
+🌱 I’m currently learning Computer Science and Computer Engineering.
 
-- 👯 I’m looking to collaborate on Artificial Inteligence projects.
+👯 I’m looking to collaborate on Artificial Inteligence projects.
 
-- 🤔 I’m looking for help with Robotics.
+🤔 I’m looking for help with Robotics.
 
-- 💬 Ask me about anything you want, it will be a pleasure to help with what I am able to.
+💬 Ask me about anything you want, it will be a pleasure to help with what I am able to.
 
-- 😄 Pronouns: They/Them
+😄 Pronouns: They/Them
 
-- ⚡ Fun fact: I love Mathematics and Science Fiction!
+⚡ Fun fact: I love Mathematics and Science Fiction!
 
-<div>
   <img src="https://github.com/joaozenobio/joaozenobio/blob/7ec8059cbae6d1200117f893363903acd974c8bd/linespacer.gif" />
 </div>
 
