@@ -31,6 +31,7 @@
   
 <div align="center">
   ![joaozenobio snake gif](https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.svg)
+  ![joaozenobio snake gif](https://github.com/joaozenobio/joaozenobio/blob/8db921dff85d8af426e53b98eceb3ff22ce1a6c2/github-contribution-grid-snake.svg)
 </div>
 
 <br><br>
