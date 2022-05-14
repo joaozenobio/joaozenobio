@@ -1,7 +1,11 @@
 <div align="center">
   <h1> Hello there... My name is João Gabriel and this is my github page!
 </div>
-
+  
+<div>
+  <img src="https://github.com/joaozenobio/joaozenobio/blob/7ec8059cbae6d1200117f893363903acd974c8bd/linespacer.gif" />
+</div>
+  
 - 🔭 I’m currently working on time series signal analysis.
 
 - 🌱 I’m currently learning Computer Science and Computer Engineering.
@@ -15,6 +19,10 @@
 - 😄 Pronouns: They/Them
 
 - ⚡ Fun fact: I love Mathematics and Science Fiction!
+
+<div>
+  <img src="https://github.com/joaozenobio/joaozenobio/blob/7ec8059cbae6d1200117f893363903acd974c8bd/linespacer.gif" />
+</div>
 
 <div align="center">
   <h3> 📫 How to reach me: <br>
