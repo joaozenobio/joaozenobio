@@ -37,8 +37,7 @@
   
 <div align="center">
   <img height="180em" src="https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.svg" />
-</div>
-<br><br>
+</div><br>
 
 <div align="center">
   <h3> Tools <br><br>
