@@ -27,6 +27,7 @@
   <a href="https://github.com/joaozenobio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozenobio&layout=compact&langs_count=7&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozenobio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  ![Snake animation](https://github.com/joaozenobio/joaozenobio/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <br><br>
